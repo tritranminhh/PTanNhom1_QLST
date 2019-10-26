@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"qlcc.KhachHang"}],"uuid":"6edf5db152e949d99cb5e3c2d4483d35"}
